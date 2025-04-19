@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @crestrada357
-- 👀 I’m interested in Web Development, Python, Databases and Cybersecurity
-- 🌱 I’m currently learning Front End Develoment at Coursera
-- 💞️ I’m looking to collaborate on HTML, CSS, Javascript and Python
+- 👀 I’m interested in Tech, Home Automation, Home Assistant, and Web Development.
 - 📫 How to reach me: write to crestrada357@gmail.com
 
 <!---
